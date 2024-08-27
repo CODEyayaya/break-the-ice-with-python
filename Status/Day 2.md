@@ -53,6 +53,12 @@ print(tuple(input("Enter a series of numbers separated by a comma :").split(',')
 ```
 ---
 
+**My solution
+a=(input("Enter a series of numbers separated by a comma :").split(','))
+print(list(a))
+print(tuple(a))
+---
+
 # Question 5
 
 ### **Question:**
